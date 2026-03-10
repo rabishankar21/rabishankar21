@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rabi Sankar Singh
 
-<!--
-**rabishankar21/rabishankar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Developer from Durgapur.
 
-Here are some ideas to get you started:
+## Skills
+- Machine Learning
+- Deep learning
+- Web Development
+- Python
+- Data Analytics
+  
+## Projects
+- Machine Learning Projects
+- Computer Vision
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Website
+Portfolio: https://portfolio-5sjt.vercel.app
