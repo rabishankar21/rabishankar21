@@ -1,4 +1,4 @@
-# Rabi Sankar Singh
+<img width="1683" height="472" alt="image" src="https://github.com/user-attachments/assets/ee3a45f7-7220-4b4c-bc97-c416d9a31bf9" /># Rabi Sankar Singh
 
 AI/ML Developer from Durgapur.
 
@@ -15,4 +15,5 @@ AI/ML Developer from Durgapur.
 - Web Development
 
 ## Portfolio Website
-Portfolio: https://portfolio-5sjt.vercel.app
+Portfolio: https://www.rabisankar.online
+
